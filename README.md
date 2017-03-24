@@ -22,6 +22,6 @@
 - [Using consecutive (greedy) gridsearch with cross validation to tune xgboost hyperparameters in python.](https://github.com/teezeit/tuning_xgboost)
 
 
-# 关
+## 关
 - [中文 Quant 相关资源索引](https://github.com/thuquant/awesome-quant)
 - [Qix - Machine Learning & Deep Learning](https://github.com/ty4z2008/Qix)
