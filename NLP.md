@@ -6,3 +6,5 @@
     - [Course notes for CS224N Winter17](https://github.com/stanfordnlp/cs224n-winter17-notes)
 - [DeepLearningNLP_Py - Introduction to Deep Learning for Natural Language Processing](https://github.com/rouseguy/DeepLearningNLP_Py)
 - [知乎 - 自然语言处理怎么最快入门？](https://www.zhihu.com/question/19895141)
+- [用深度学习（CNN RNN Attention）解决大规模文本分类问题 - 综述和实践](https://zhuanlan.zhihu.com/p/25928551)
+

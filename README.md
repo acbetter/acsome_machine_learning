@@ -13,6 +13,12 @@
 - [斯坦福大学 2014 机器学习视频教程 中英字幕含笔记 - 密码：dhvg](http://pan.baidu.com/s/1hsPhlPy)
 - [经验之谈：如何为你的机器学习问题选择合适的算法](https://zhuanlan.zhihu.com/p/25459407)
 
+## 框架
+- [PyTorch](http://pytorch.org/)
+    - [GitHub](https://github.com/pytorch/pytorch)
+    - [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
+    
+
 ## 搞事
 - [Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
 - [Predicting Housing Prices with Linear Regression using Python, pandas, and statsmodels](http://www.learndatasci.com/predicting-housing-prices-linear-regression-using-python-pandas-statsmodels/)
@@ -30,4 +36,7 @@
 - [中文 Quant 相关资源索引](https://github.com/thuquant/awesome-quant)
 - [awesome-quant - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)' by Wilson Freitas](https://github.com/wilsonfreitas/awesome-quant)
 - [Qix - Machine Learning & Deep Learning](https://github.com/ty4z2008/Qix)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome](https://github.com/sindresorhus/awesome)
+
 
