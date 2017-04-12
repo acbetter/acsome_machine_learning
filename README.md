@@ -1,23 +1,34 @@
 # AC Some Machine Learing
 # 甜品店打杂 的 机器学习 资源整理
 
-## 小类
-- [NLP 自然语言处理](NLP.md)
-- [DL1 深度学习](DL1.md)
+[TOC]
 
 ## 总括
 - [一篇文章讲清楚人工智能、机器学习和深度学习的区别](https://36kr.com/p/5052482.html)
 - [写给大家看的机器学习书](https://zhuanlan.zhihu.com/machine-learning-book)
 
 ## 入门
+
+### Deep Learning Book - Yoshua Bengio
+
+- [NTUEE ML 2016 - Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)
+    - [YouTube](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
+- [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/)
+    - [Chinese - PDF format](https://github.com/exacity/deeplearningbook-chinese)
+    - [English - PDF format](https://github.com/HFTrader/DeepLearningBook)
+    - [episodeyang / deep_learning_notes](https://github.com/episodeyang/deep_learning_notes)
+    - [李金 - PRML + ML 笔记](https://github.com/lijin-THU/notes-machine-learning)
+
+### Machine Learning - Andrew Ng
+
 - [斯坦福大学 2014 机器学习视频教程 中英字幕含笔记 - 密码：dhvg](http://pan.baidu.com/s/1hsPhlPy)
-- [经验之谈：如何为你的机器学习问题选择合适的算法](https://zhuanlan.zhihu.com/p/25459407)
+
 
 ## 框架
 - [PyTorch](http://pytorch.org/)
     - [GitHub](https://github.com/pytorch/pytorch)
     - [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
-    
+
 
 ## 搞事
 - [Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
