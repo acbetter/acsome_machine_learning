@@ -5,8 +5,16 @@
 ## 总括
 
 - [一篇文章讲清楚人工智能、机器学习和深度学习的区别](https://36kr.com/p/5052482.html)
+
 - [写给大家看的机器学习书](https://zhuanlan.zhihu.com/machine-learning-book)
+
+- [【机器学习入门】#1 Hello World@二进制小分队](https://www.bilibili.com/video/av7200723/)
+
 ## 入门
+
+### Machine Learning - Andrew Ng
+
+- [斯坦福大学 2014 机器学习视频教程 中英字幕含笔记 - 密码：dhvg](http://pan.baidu.com/s/1hsPhlPy)
 
 ### Deep Learning Book - Yoshua Bengio
 
@@ -18,15 +26,14 @@
     - [episodeyang / deep_learning_notes](https://github.com/episodeyang/deep_learning_notes)
     - [李金 - PRML + ML 笔记](https://github.com/lijin-THU/notes-machine-learning)
 
-### Machine Learning - Andrew Ng
+## 迷路
 
-- [斯坦福大学 2014 机器学习视频教程 中英字幕含笔记 - 密码：dhvg](http://pan.baidu.com/s/1hsPhlPy)
+- [Machine Learning Readings](https://dirtysalt.github.io/ml-reading.html)
+- [贝叶斯机器学习路线图](http://www.cnblogs.com/bayesianML/p/6377588.html)
 
 ## 框架
 
-- [PyTorch](http://pytorch.org/)
-    - [PyTorch on GitHub](https://github.com/pytorch/pytorch)
-    - [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
+- tensorflow or keras
 
 ## 特征
 
@@ -50,10 +57,7 @@
 
 ## 数据
 
-- ML
-- DL
-- NLP
-  - [Datasets | webhose.io](https://webhose.io/datasets)
+- just google it
 
 ## 相关
 
