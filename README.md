@@ -23,7 +23,6 @@
 - Machine Learning 二选一，如果感觉困难就两个都看，相互补充：
   - 斯坦福吴恩达 Andrew Ng 在 Coursera 上的 Machine Learning 课程
   - 台大林轩田老师的『机器学习基石』和『机器学习技法』
-
 - Deep Learning 一本就够了：[Deep Learning Book - Yoshua Bengio](https://item.jd.com/12128543.html)
 
 ## 渡劫 - 飞升上仙
